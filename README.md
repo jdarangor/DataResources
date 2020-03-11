@@ -28,3 +28,6 @@ https://app.powerbi.com/reportEmbed?reportId=8dec1b92-081c-4b59-8c57-1a8be2b84f3
 
 US Data
 https://usafacts.org/data/topics/people-society/population-and-demographics/population-data/population/?
+
+Rest Countries
+http://restcountries.eu/#api-endpoints-all
