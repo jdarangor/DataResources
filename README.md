@@ -33,3 +33,7 @@ https://usafacts.org/data/topics/people-society/population-and-demographics/popu
 
 Rest Countries
 http://restcountries.eu/#api-endpoints-all
+
+World o meter
+https://www.worldometers.info/ 
+https://www.worldometers.info/coronavirus/ Coronavirus
