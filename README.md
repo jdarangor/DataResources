@@ -15,6 +15,7 @@ https://cloud.google.com/public-datasets/
 Awesome Public Datasets
 https://github.com/jdarangor/awesome-public-datasets#software
 
+Worked to develeped end-to-end Power BI reports and posted them to Power BI service.
 created Smartview-Excel applications to extract data from Essbase, and review its quality. Data then used to build Power BI reports for executive consumption. 
 created Excel-Access based models to track Essbase datachanges, to discover missed assign expenses, to forecast shipping rates, and to review data hierarchies.
 Created and maintained Power BI reports, uses DAX, Power Pivot, Power Query, Power Data
