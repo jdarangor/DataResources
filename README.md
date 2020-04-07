@@ -38,3 +38,6 @@ http://restcountries.eu/#api-endpoints-all
 World o meter
 https://www.worldometers.info/ 
 https://www.worldometers.info/coronavirus/ Coronavirus
+
+Plane Crash Info
+http://www.planecrashinfo.com/1958/1958.htm
