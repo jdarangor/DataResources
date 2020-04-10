@@ -23,6 +23,9 @@ worked to create custome visuals D3 framework.
 DaxStudio knowledge.
 Data analyst
 Data analysts decipher and interpret data, and businesses use them to expose inefficiencies, forecast trends, prepare reports, and make strategic decisions. The average entry-level salary is about $60,000, while senior jobs can pay about $138,000.
+Developer (back-end)
+Back-end developers create the inner workings of websites and are proficient in data storage, security, capacity issues, and testing. They earn an average yearly salary of about $117,000 and an hourly rate of about $65 an hour.
+
 
 link
 https://app.powerbi.com/reportEmbed?reportId=8dec1b92-081c-4b59-8c57-1a8be2b84f35&autoAuth=true&ctid=5c590b26-36c0-4450-a3c9-acd90cfd4ea1&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXVzLWVhc3QyLXJlZGlyZWN0LmFuYWx5c2lzLndpbmRvd3MubmV0LyJ9
