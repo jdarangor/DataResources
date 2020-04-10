@@ -25,6 +25,10 @@ Data analyst
 Data analysts decipher and interpret data, and businesses use them to expose inefficiencies, forecast trends, prepare reports, and make strategic decisions. The average entry-level salary is about $60,000, while senior jobs can pay about $138,000.
 Developer (back-end)
 Back-end developers create the inner workings of websites and are proficient in data storage, security, capacity issues, and testing. They earn an average yearly salary of about $117,000 and an hourly rate of about $65 an hour.
+Developer (front-end)
+Front-end developers design the appearance and style of websites, creating the images and presentations that users see. They earn an average yearly salary of about $70,000 and an hourly rate of about $50 an hour.
+UX designer
+UX design is centered on user experience: where people and products intersect. UX designers find ways to make sure goods and technology are accessible and easy to use so that users will have a good experience and will return. Earning an average annual salary of about $74,000, they might design checkout systems for online shopping, menu selections for restaurant take-out and delivery, or reservations web pages for an airline.
 
 
 link
