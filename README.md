@@ -21,6 +21,8 @@ created Excel-Access based models to track Essbase datachanges, to discover miss
 Created and maintained Power BI reports, uses DAX, Power Pivot, Power Query, Power Data
 worked to create custome visuals D3 framework. 
 DaxStudio knowledge.
+Power Query, Power BI Desktop, Powew BI service
+
 Data analyst
 Data analysts decipher and interpret data, and businesses use them to expose inefficiencies, forecast trends, prepare reports, and make strategic decisions. The average entry-level salary is about $60,000, while senior jobs can pay about $138,000.
 Developer (back-end)
