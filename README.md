@@ -52,3 +52,6 @@ https://www.worldometers.info/coronavirus/ Coronavirus
 
 Plane Crash Info
 http://www.planecrashinfo.com/1958/1958.htm
+
+COVID-19 Tableu
+https://www.tableau.com/covid-19-coronavirus-data-resources
